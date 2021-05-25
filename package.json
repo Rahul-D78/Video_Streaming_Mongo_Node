@@ -1,0 +1,25 @@
+{
+  "name": "Video_Streaming_Mongo",
+  "version": "1.0.0",
+  "description": "## Technologies used  1. NodeJS -- Service 2. JavaScript -- Language 3. MongoDB -- Database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-D78/Video_Streaming_Mongo_Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-D78/Video_Streaming_Mongo_Node/issues"
+  },
+  "homepage": "https://github.com/Rahul-D78/Video_Streaming_Mongo_Node#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11"
+  }
+}
